@@ -1,0 +1,3 @@
+rootProject.name = 'mysoccer4u_1167'
+
+include ':app'
